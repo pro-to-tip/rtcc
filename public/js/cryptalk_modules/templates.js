@@ -3,31 +3,31 @@
 define({
 
 	help: '<pre>                                                                \n' +
-		'Cryptalk, encrypted instant chat.                                      \n' +
-		'                                                                       \n' +
+//		'Cryptalk, encrypted instant chat.                                      \n' +
+//		'                                                                       \n' +
 		'----------------------------------------------------------------------	\n' +
-		'                                                                       \n' +
-		'Client:                                                    			\n' +
-		'	/key		StrongPassphrase	Sets encryption key                 \n' +
-		'	/nick		NickName		Sets an optional nick                   \n' +
+//		'                                                                       \n' +
+		'Client:                                                    		\n' +
+		'	/key		StrongPassphrase	Sets encryption key          \n' +
+		'	/nick		NickName		Sets an optional nick        \n' +
 		'	/mute  					Audio on									\n' +
 		'	/unmute  				Audio off									\n' +
-		'	/clear					Clear on-screen buffer                      \n' +
-		'	/help					This                                        \n' +
-		'	/title					Set your local page title					\n' +
-		'	/torch		AfterSeconds		Console messages are torched  		\n' +
-		'						after this amount of seconds 					\n' +
+		'	/clear					Clear on-screen buffer       \n' +
+		'	/help					This                         \n' +
+		'	/title					Set your local page title    \n' +
+		'	/torch		AfterSeconds		Console messages are torched \n' +
+		'						after this amount of seconds \n' +
 		'						(default 600).									\n' +
 		'                                                                       \n' +
-		'Room:                                                    				\n' +
-		'	/join		RoomId			Join a room	                            \n' +
-		'	/leave					Leave the room                              \n' +
-		'	/count					Count participants                          \n' +
+		'Room:                                                    		\n' +
+		'	/join		RoomId			Join a room	        \n' +
+		'	/leave					Leave the room          \n' +
+		'	/count					Count participants      \n' +
 		'                                                                       \n' +
-		'Host:  		                                                    	\n' +
-		'	/hosts					List available hosts                   		\n' +
-		'	/connect	HostIndex		Connect to selected host               	\n' +
-		'	/disconnect				Disconnect from host    			        \n' +
+		'Host:  		                                                \n' +
+		'	/hosts					List available hosts         \n' +
+		'	/connect	HostIndex		Connect to selected host     \n' +
+		'	/disconnect				Disconnect from host    \n' +
 		'                                                                       \n' +
 		'You can select any of the five last commands/messages with up/down key.\n' +
 		'                                                                       \n' + 
