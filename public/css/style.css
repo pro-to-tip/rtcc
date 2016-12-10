@@ -111,8 +111,11 @@ body, html {
         border-radius: 20px;
 }
 
-#input { z-index: 1;    background: linear-gradient(to right, #ffffff 0%, transparent 50%);font-weight: 900;
+#input {z-index: 1;
+    background: linear-gradient(to right, #000000 0%, transparent 50%);
+    font-weight: 900;
     font-size: 1.5em;
+    color: #fff;
 }
  }
 #loader { z-index: 0; line-height: 20px; font-size: 14px; font-weight: 100; font-family: tahoma;}
