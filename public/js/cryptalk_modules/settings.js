@@ -1,6 +1,6 @@
 define({
 
-	title: "Cryptalk - Online",
+	title: "Online",
 
 	ttl: 600000,
 
