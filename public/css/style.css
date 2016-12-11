@@ -87,7 +87,7 @@ body, html {
     font-weight: 900;
     font-size: 1.5em;
 }
-#chat i.motd	{ color: #99FF99; display:inline-block; line-height: 12px !important;width: auto;}
+#chat i.motd	{ color: #99FF99; display:inline-block; line-height: 12px !important;width: auto;max-width: 600px;}
 #chat i.info	{ color: #999999; }
 #chat i.server	{ color: #99FFFF; }
 #chat i.error	{ color: #ff7777; }
