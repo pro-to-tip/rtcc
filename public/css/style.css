@@ -125,7 +125,7 @@ body, html {
     font-weight: 900;
     font-size: 1.5em;
     color: #FFC107;
-    background: rgba(0, 0, 0, 0.4);
+    background: rgb(48, 48, 48);
 }
  }
 #loader { z-index: 0; line-height: 20px; font-size: 14px; font-weight: 100; font-family: tahoma;}
