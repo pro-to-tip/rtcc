@@ -117,16 +117,16 @@ body, html {
 	outline: 0;
 	padding: 5px 5px 5px 15px;
 	height:40px;
-	border: 2.5px dotted #c5c8c6;
+      /*border: 2.5px dotted #c5c8c6;*/
       /*border-radius: 20px;*/
 }
 
 #input {z-index: 1;
-    /*background: linear-gradient(to right, #000000 0%, transparent 50%);*/
+  /*background: linear-gradient(to right, #000000 0%, transparent 50%);*/
     font-weight: 900;
     font-size: 1.5em;
     color: #fff;
-    background:transparent;
+    background: rgba(0, 0, 0, 0.4);
 }
  }
 #loader { z-index: 0; line-height: 20px; font-size: 14px; font-weight: 100; font-family: tahoma;}
